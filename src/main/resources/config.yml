@@ -1,0 +1,16 @@
+msg:
+  - "Игрок {player} всё таки зашёл"
+  - "вот же пидор"
+
+search: "§a{player} обявлен в розыск"
+
+usage: "/search <игрок>"
+
+commands:
+  - ""
+
+
+discord:
+  token: ""
+  channelId: 0000
+  text: "Text1\nText2" # {player}

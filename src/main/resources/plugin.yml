@@ -1,0 +1,6 @@
+name: FaithSearch
+version: '${project.version}'
+main: me.jetby.faithsearch.FaithSearch
+api-version: '1.16'
+commands:
+  search: {}
